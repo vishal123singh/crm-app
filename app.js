@@ -1,4 +1,4 @@
-require('dotenv').config();
+require('dotenv').config();//how are you
 const app_host = process.env.APP_HOST;
 const app_port = process.env.APP_PORT;
 const db_url = process.env.DB_URL;
